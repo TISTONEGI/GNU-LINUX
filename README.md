@@ -10,3 +10,7 @@ Agora, respondendo à sua pergunta: Não, o Linux (que é o kernel) já é compl
 No site do projeto GNU, essa questão é explicada em detalhes. Linus Torvalds criou o núcleo do sistema (o Linux), enquanto outras partes importantes, como o formatador de textos TeX (criado por Donald Knuth) e o sistema de janelas X Window System (criado por Bob Scheifler), vieram de outros projetos. É comum medir a contribuição de um projeto pelos programas específicos que ele produziu.
 
 Embora o Linux tenha sido inicialmente criado como algo semelhante ao Unix (um sistema operacional fechado), ao longo do tempo ele se tornou único, com suas próprias características e peculiaridades.
+
+https://www.gnu.org/gnu/linux-and-gnu.html
+
+https://www.redhat.com/pt-br/topics/linux/what-is-linux
